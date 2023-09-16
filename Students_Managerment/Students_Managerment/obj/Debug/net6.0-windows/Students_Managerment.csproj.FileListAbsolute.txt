@@ -1,0 +1,68 @@
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.exe
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.deps.json
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.runtimeconfig.json
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.pdb
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.csproj.AssemblyReference.cache
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.csproj.GenerateResource.cache
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.GeneratedMSBuildEditorConfig.editorconfig
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.AssemblyInfoInputs.cache
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.AssemblyInfo.cs
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.csproj.CoreCompileInputs.cache
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\refint\Students_Managerment.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.pdb
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.genruntimeconfig.cache
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\ref\Students_Managerment.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.fLogin.resources
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.fTableAdmin.resources
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.fTableStudent.resources
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.fTableTeacher.resources
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Faker.Net.6.0.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\de-DE\Faker.Net.6.0.resources.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.csproj.CopyComplete
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.Properties.Resources.resources
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.Sheets.v4.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\auto save file word\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.Register.resources
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.exe
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.deps.json
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.runtimeconfig.json
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Students_Managerment.pdb
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Faker.Net.6.0.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Google.Apis.Sheets.v4.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\de-DE\Faker.Net.6.0.resources.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.csproj.AssemblyReference.cache
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.fLogin.resources
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.fTableAdmin.resources
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.fTableStudent.resources
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.fTableTeacher.resources
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.Properties.Resources.resources
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.Register.resources
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.csproj.GenerateResource.cache
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.GeneratedMSBuildEditorConfig.editorconfig
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.AssemblyInfoInputs.cache
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.AssemblyInfo.cs
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.csproj.CoreCompileInputs.cache
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.csproj.CopyComplete
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\refint\Students_Managerment.dll
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.pdb
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\Students_Managerment.genruntimeconfig.cache
+D:\auto save file word\source code (program)\C#\ASM\Students_Managerment\Students_Managerment\obj\Debug\net6.0-windows\ref\Students_Managerment.dll
